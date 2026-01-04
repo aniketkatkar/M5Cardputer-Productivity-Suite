@@ -4,7 +4,7 @@ Transform your M5Cardputer into a plug-and-play Productivity Suite with Macro Ke
 
 ## Screenshots
 
-![Main screen](https://github.com/aniketkatkar/M5Cardputer-Macro-Keypad/blob/main/M5Cardputer_Productivity_Suite.jpg)
+![Main screen](https://github.com/aniketkatkar/M5Cardputer-Productivity-Suite/blob/main/M5Cardputer_Productivity_Suite.jpg)
 
 
 ## Features
